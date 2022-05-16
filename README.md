@@ -31,6 +31,11 @@ To run the scripts, put a copy of the .ipynb Jupyter Notebook in the same folder
 3. The kymograph can be then cropped and the image's brightness and contrast can be adjusted
 4. Within the same script, it is possible to track 1D diffusion and measure the diffusion coefficient.
 
+
+OUTPUTS:
+-csv files with data 
+- png images with kymographs
+- raw TIFF file
 More description will be added shortly
 
 
