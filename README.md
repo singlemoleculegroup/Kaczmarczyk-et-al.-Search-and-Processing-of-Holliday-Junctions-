@@ -36,6 +36,8 @@ OUTPUTS:
 -csv files with data 
 - png images with kymographs
 - raw TIFF file
+
+
 More description will be added shortly
 
 
