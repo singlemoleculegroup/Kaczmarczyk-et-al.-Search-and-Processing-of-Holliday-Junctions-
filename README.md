@@ -22,3 +22,15 @@ To install the software, download Anaconda:
 Detailed instruction on how to install Anaconda and Pylake package is available here:
 https://lumicks-pylake.readthedocs.io/en/latest/install.html#installation-instructions
 
+The instalation process of Anaconda and necessary libraries requires ~15 minutes.
+
+SCRIPTS TO ANALYSE IMAGES and FORCE (e.g. used to generate images for Figure 2)
+To run the scripts, put a copy of the .ipynb Jupyter Notebook in the same folder as the .H5 file you wish to analyze. 
+1. The script will automatically load the file. 
+2. Subsequently, it will render a kymograph and the corresponding force measurement.
+3. The kymograph can be then cropped and the image's brightness and contrast can be adjusted
+4. Within the same script, it is possible to track 1D diffusion and measure the diffusion coefficient.
+
+More description will be added shortly
+
+
