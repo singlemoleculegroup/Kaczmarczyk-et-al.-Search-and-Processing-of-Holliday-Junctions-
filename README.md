@@ -14,3 +14,11 @@ The scripts are executed in Jupyter Notebook (Anaconda 4.10.1) using libraries:
   - scipy 1.6.3
   - peakutils 1.3.3
  
+To install the software, download Anaconda: 
+1. Go to the Anaconda website and download the Python 3.8 (or newer) installer.
+2. Create a new environment for Pylake
+3. Install additional libraries (scipy, peakutils through Anaconda desktop app or via Terminal)
+
+Detailed instruction on how to install Anaconda and Pylake package is available here:
+https://lumicks-pylake.readthedocs.io/en/latest/install.html#installation-instructions
+
