@@ -38,6 +38,6 @@ OUTPUTS:
 - raw TIFF file
 
 
-More description will be added shortly
+For questions, contact akaczmarczyk88@gmail.com
 
 
